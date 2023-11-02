@@ -1,0 +1,59 @@
+## 图标设置
+IconThemes="elementary-xfce:hicolor:-HighContrast"
+
+## 壁纸设置
+DesktopBackgroundCenter=1
+DesktopBackgroundScaled=1
+DesktopBackgroundImage="~/.config/icewm/wallpapers/wallpaper_xfce.svg"
+
+## 字体设置
+ActiveButtonFontNameXft="WenQuanYi Micro Hei:size=13:bold"
+ActiveTaskBarFontNameXft="WenQuanYi Micro Hei:size=13:bold"
+ActiveWorkspaceFontNameXft="WenQuanYi Micro Hei:size=13"
+ApmFontNameXft="WenQuanYi Micro Hei Mono:monospace:size=13"
+ClockFontNameXft="WenQuanYi Micro Hei Mono:monospace:size=13:bold"
+InputFontNameXft="WenQuanYi Micro Hei:size=13:bold"
+LabelFontNameXft="WenQuanYi Micro Hei:size=13"
+ListBoxFontNameXft="WenQuanYi Micro Hei:size=13"
+MenuFontNameXft="WenQuanYi Micro Hei:size=13:bold"
+NormalButtonFontNameXft="WenQuanYi Micro Hei:size=13"
+NormalTaskBarFontNameXft="WenQuanYi Micro Hei:size=13"
+NormalWorkspaceFontNameXft="WenQuanYi Micro Hei:size=13"
+QuickSwitchFontNameXft="WenQuanYi Micro Hei Mono:monospace:size=13:bold"
+StatusFontNameXft="WenQuanYi Micro Hei Mono:monospace:size=13:bold"
+TempFontNameXft="WenQuanYi Micro Hei Mono:monospace:size=13"
+TitleFontNameXft="WenQuanYi Micro Hei:size=13"
+ToolButtonFontNameXft="WenQuanYi Micro Hei:size=13"
+ToolTipFontNameXft="WenQuanYi Micro Hei:size=13"
+
+## 窗口设置
+SmartPlacement=0
+
+## 任务栏设置
+TaskbarButtonWidthDivisor=5
+TimeFormat="%m月%d日 %H:%M"
+TaskBarShowMailboxStatus=0
+MailCheckDelay=0
+TaskBarClockLeds=0
+
+## 窗口边框设置
+BorderSizeX=3
+BorderSizeY=3
+DlgBorderSizeX=3
+DlgBorderSizeY=3
+CornerSizeX=0
+CornerSizeY=0
+
+## 图标设置
+SmallIconSize=26
+MenuIconSize=26
+TrayIconMaxHeight=26
+TrayIconMaxWidth=32
+
+## 窗口标题栏设置
+TitleButtonsSupported="xmirs"
+TitleButtonsLeft="r"
+TitleButtonsRight="xmi"
+
+## 工作区设置
+WorkspaceNames=" 1 ", " 2 "

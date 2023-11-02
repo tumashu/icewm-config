@@ -1,0 +1,4 @@
+prog "文件管理器" drive-harddisk.png thunar
+prog "Terminal 终端" terminal.png x-terminal-emulator -ls
+prog "网页浏览器" www-browser.png x-www-browser
+prog "Emacs 编辑器" emacs.png emacs

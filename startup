@@ -1,4 +1,5 @@
 #!/bin/sh
 
+xfdesktop &
 sleep 1 && nm-applet &
 xscreensaver -nosplash &

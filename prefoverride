@@ -30,6 +30,7 @@ ToolTipFontNameXft="WenQuanYi Micro Hei:size=13"
 SmartPlacement=0
 
 ## 任务栏设置
+TaskBarAtTop=1
 TaskbarButtonWidthDivisor=5
 TimeFormat="%m月%d日 %H:%M"
 TaskBarShowMailboxStatus=0

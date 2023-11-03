@@ -1,1 +1,4 @@
-nm-applet &
+#!/bin/sh
+
+sleep 1 && nm-applet &
+xscreensaver -nosplash &

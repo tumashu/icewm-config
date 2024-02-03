@@ -1,10 +1,10 @@
 /* XPM */
-static char *titleIS[] = {
+static char *titleAL[] = {
 /* width height ncolors chars_per_pixel */
 "1 24 2 1",
 /* colors */
-"  c #E5E5E5",
-". c #B2B2B2",
+"  c #F2F2F2",
+". c #BFBFBF",
 /* pixels */
 " ",
 " ",

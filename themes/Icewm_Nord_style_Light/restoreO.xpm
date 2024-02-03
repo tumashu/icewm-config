@@ -1,5 +1,5 @@
 /* XPM */
-static char *maximizeO[] = {
+static char *restoreO[] = {
 /* width height ncolors chars_per_pixel */
 "20 48 60 1",
 /* colors */

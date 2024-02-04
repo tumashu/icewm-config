@@ -8,6 +8,10 @@ Look=flat
 TaskBarEnableSystemTray=1
 TaskBarGraphHeight=30
 RolloverButtonsSupported=1                  # 0/1
+TaskBarShowWindowIcons=1
+TaskbuttonIconOffset=2
+TrayIconMaxWidth=28
+TrayIconMaxHeight=28
 
 TitleBarHeight=24
 TitleBarJustify=50
@@ -22,8 +26,8 @@ BorderSizeY=2
 DlgBorderSizeX=2
 DlgBorderSizeY=2
 
-MenuIconSize=32                             # Menu
-SmallIconSize=32                            # Taskbar & Titlebar. Taskbar height = height of linux.xpm. Titlebar height = TitleBarHeight in *.theme
+MenuIconSize=24                             # Menu
+SmallIconSize=28                            # Taskbar & Titlebar. Taskbar height = height of linux.xpm. Titlebar height = TitleBarHeight in *.theme
 LargeIconSize=32                            # Quickswitch window
 HugeIconSize=48                             # ?  Cannot identify what it applies to
 

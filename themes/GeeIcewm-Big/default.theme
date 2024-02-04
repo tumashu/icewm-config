@@ -8,6 +8,10 @@ Look=flat
 TaskBarEnableSystemTray=1
 TaskBarGraphHeight=30
 RolloverButtonsSupported=1                  # 0/1
+TaskBarShowWindowIcons=1
+TaskbuttonIconOffset=2
+TrayIconMaxWidth=32
+TrayIconMaxHeight=32
 
 TitleBarHeight=36
 TitleBarJustify=50

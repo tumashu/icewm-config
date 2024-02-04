@@ -16,4 +16,4 @@ TaskBarShowMailboxStatus=0
 MailCheckDelay=0
 
 ## 工作区设置
-WorkspaceNames=" 1 ", " 2 "
+WorkspaceNames="1", "2"

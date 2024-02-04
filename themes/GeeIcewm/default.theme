@@ -1,42 +1,39 @@
-ThemeName="Icewm_nord_style_light"
-ThemeDescription="Minimalistic, flat theme for IceWM, inspired and based on nord palete"
-	ThemeAuthor="IamJony | www.github/IamJony"
+ThemeName="GeeIcewm"
+ThemeDescription="Minimalistic, flat theme for IceWM, inspired and based on Icewm_nord_style_light and Cupertino"
+ThemeAuthor="Tumashu"
 License="GPL"
 Look=flat
 
-RolloverButtonsSupported=1		# 0/1
-ShowMenuButtonIcon=1			# 0/1 Show application icon on menuButton
-TaskBarEnableSystemTray=1
-TaskBarGraphHeight=32
-TitleButtonsLeft="s"
 
-TitleButtonsRight="xmi"		        # Rollup button hidden
-TitleButtonsSupported="xmis"		# Rollup button hidden
+TaskBarEnableSystemTray=1
+TaskBarGraphHeight=30
+RolloverButtonsSupported=1                  # 0/1
+
+TitleBarHeight=24
+TitleBarJustify=50
+TitleBarHorzOffset=-40
+ShowMenuButtonIcon=1                        # 0/1 Show application icon on menuButton
+TitleButtonsLeft="s"
+TitleButtonsRight="xmi"                     # Rollup button hidden
+TitleButtonsSupported="xmis"                # Rollup button hidden
 
 BorderSizeX=2
 BorderSizeY=2
 DlgBorderSizeX=2
 DlgBorderSizeY=2
-TitleBarHeight=24
-TitleBarHorzOffset=-40
-RolloverButtonsSupported=1
-TitleBarJustify=50
 
-MenuIconSize=32				# Menu
-SmallIconSize=32 				# Taskbar & Titlebar. Taskbar height = height of linux.xpm. Titlebar height = TitleBarHeight in *.theme
-LargeIconSize=32				# Quickswitch window
-HugeIconSize=48					# ?  Cannot identify what it applies to
+MenuIconSize=32                             # Menu
+SmallIconSize=32                            # Taskbar & Titlebar. Taskbar height = height of linux.xpm. Titlebar height = TitleBarHeight in *.theme
+LargeIconSize=32                            # Quickswitch window
+HugeIconSize=48                             # ?  Cannot identify what it applies to
 
 Gradients="taskbuttonactive.xpm taskbuttonminimized.xpm workspacebuttonactive.xpm"
 
 ColorNormalBorder="#E5E5E5"
 ColorActiveBorder="#E5E5E5"
 
-ColorNormalTitleBar="#E5E5E5"
-ColorActiveTitleBar="#E5E5E5"
-ColorActiveTitleBarText="rgb:19/19/19"
-ColorNormalTitleBarText="rgb:7f/7f/7f"
-
+ColorActiveTitleBarText="#7a7a7a"
+ColorNormalTitleBarText="#7a7a7a"
 
 ColorNormalMenu="#E5E5E5"
 ColorActiveMenuItem="#E5E5E5"
@@ -45,9 +42,9 @@ ColorActiveMenuItemText="black"
 ColorDisabledMenuItemText="#7a7a7a"
 
 ColorMoveSizeStatus="#1B1F26"
-ColorMoveSizeStatusText="#dfdbd2"
+ColorMoveSizeStatusText="#DFDBD2"
 
-PagerShowBorders=0				# Menu
+PagerShowBorders=0                            # Menu
 ColorDefaultTaskBar="#E5E5E5"
 ColorNormalTaskBarApp="#E5E5E5"
 ColorNormalTaskBarAppText="#2F353A"
@@ -90,7 +87,7 @@ ColorNetSend="#6B8AB0"
 ColorNetReceive="#6B8AB0"
 ColorNetIdle="#1B1F26"
 
-TaskBarClockLeds=0				# 0/1
+TaskBarClockLeds=0                             # 0/1
 ColorClock="#E5E5E5"
 ColorClockText="#49678B"
 
@@ -144,9 +141,9 @@ LabelFontNameXft="WenQuanYi Micro Hei:size=13,sans:size=13"
 # --------------------
 # Desktop Background
 # --------------------
-DesktopBackgroundColor=""		# Prevent IceWM showing a background color
-DesktopBackgroundImage=""		# Prevent IceWM showing a background image
-DesktopBackgroundCenter=0		# 0/1
-DesktopBackgroundScaled=1		# 0/1
+DesktopBackgroundColor=""                     # Prevent IceWM showing a background color
+DesktopBackgroundImage=""                     # Prevent IceWM showing a background image
+DesktopBackgroundCenter=0                     # 0/1
+DesktopBackgroundScaled=1                     # 0/1
 DesktopBackgroundColor=""
-DesktopBackgroundImage="default.png"
+DesktopBackgroundImage="default.svg"

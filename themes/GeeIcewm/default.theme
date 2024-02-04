@@ -10,8 +10,8 @@ TaskBarGraphHeight=30
 RolloverButtonsSupported=1                  # 0/1
 TaskBarShowWindowIcons=1
 TaskbuttonIconOffset=2
-TrayIconMaxWidth=28
-TrayIconMaxHeight=28
+TrayIconMaxWidth=26
+TrayIconMaxHeight=26
 
 TitleBarHeight=24
 TitleBarJustify=50

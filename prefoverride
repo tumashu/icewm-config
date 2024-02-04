@@ -11,12 +11,9 @@ DesktopBackgroundImage="~/.icewm/wallpapers/wallpaper_xfce.svg"
 #SmartPlacement=0
 
 ## 任务栏设置
-# TaskBarAtTop=1
-# TaskbarButtonWidthDivisor=5
 TimeFormat="%m月%d日 %H:%M"
 TaskBarShowMailboxStatus=0
 MailCheckDelay=0
-TaskBarClockLeds=0
 
 ## 工作区设置
 WorkspaceNames=" 1 ", " 2 "

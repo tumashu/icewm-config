@@ -10,8 +10,8 @@ TaskBarGraphHeight=30
 RolloverButtonsSupported=1                  # 0/1
 TaskBarShowWindowIcons=1
 TaskbuttonIconOffset=2
-TrayIconMaxWidth=32
-TrayIconMaxHeight=32
+TrayIconMaxWidth=36
+TrayIconMaxHeight=36
 
 TitleBarHeight=36
 TitleBarJustify=50
@@ -26,9 +26,9 @@ BorderSizeY=2
 DlgBorderSizeX=2
 DlgBorderSizeY=2
 
-MenuIconSize=32                             # Menu
-SmallIconSize=32                            # Taskbar & Titlebar. Taskbar height = height of linux.xpm. Titlebar height = TitleBarHeight in *.theme
-LargeIconSize=32                            # Quickswitch window
+MenuIconSize=30                             # Menu
+SmallIconSize=36                            # Taskbar & Titlebar. Taskbar height = height of linux.xpm. Titlebar height = TitleBarHeight in *.theme
+LargeIconSize=36                            # Quickswitch window
 HugeIconSize=48                             # ?  Cannot identify what it applies to
 
 Gradients="taskbuttonactive.xpm taskbuttonminimized.xpm workspacebuttonactive.xpm"

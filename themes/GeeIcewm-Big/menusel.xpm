@@ -1,11 +1,13 @@
 /* XPM */
 static char *menusel[] = {
-/* width height ncolors chars_per_pixel */
-"2 2 2 1",
-/* colors */
+/* columns rows colors chars-per-pixel */
+"3 3 4 1 ",
 "  c #4682F2",
-". c #4989FF",
+". c #4785F8",
+"X c #4887FC",
+"o c #4989FF",
 /* pixels */
-"..",
-". "
+"ooo",
+"oX.",
+"o. "
 };

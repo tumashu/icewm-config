@@ -13,9 +13,9 @@ TaskbuttonIconOffset=2
 TrayIconMaxWidth=36
 TrayIconMaxHeight=36
 
-TitleBarHeight=36
+TitleBarHeight=31
 TitleBarJustify=50
-TitleBarHorzOffset=-40
+TitleBarHorzOffset=-30
 ShowMenuButtonIcon=0                        # 0/1 Show application icon on menuButton
 TitleButtonsLeft="s"
 TitleButtonsRight="xmi"                     # Rollup button hidden

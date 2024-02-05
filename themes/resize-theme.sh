@@ -1,4 +1,3 @@
 cd GeeIcewm
-identify *.xpm
-for f in *.xpm; do convert $f -resize 150% ../GeeIcewm-Big/$f; done
-identify ../GeeIcewm-Big/*.xpm
+cp *.xpm ../GeeIcewm-Big
+for f in title*.xpm menu*.xpm max*.xpm min*.xpm restore*.xpm close*.xpm; do convert $f -resize 130% ../GeeIcewm-Big/$f; done

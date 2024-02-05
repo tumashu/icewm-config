@@ -1,14 +1,14 @@
 /* XPM */
-static char *menuButtonI[] = {
+static char *menuButtonO[] = {
 /* columns rows colors chars-per-pixel */
 "26 62 7 1 ",
-"  c #B3B3B3",
-". c #B9B9B9",
-"X c #D3D3D3",
-"o c #DEDEDE",
-"O c gray90",
-"+ c #E6E6E6",
-"@ c #E7E7E7",
+"  c #C0C0C0",
+". c #C6C6C6",
+"X c #E0E0E0",
+"o c #EBEBEB",
+"O c gray95",
+"+ c #F3F3F3",
+"@ c #F4F4F4",
 /* pixels */
 "OOOOOOOOOOOOOOOOOOOOOOOOOO",
 "OOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -38,11 +38,11 @@ static char *menuButtonI[] = {
 "OOOOOOOOOOOOOOOOOOOOOOOOOO",
 "OOOOOOOOOOOOOOOOOOOOOOOOOO",
 "OOOOOOOOOOOOOOOOOOOOOOOOOO",
-"@@@@@@@@OOOO@O@@@@@@O@@@@O",
+"@@@O@@@@@@@@@O@@@@@@O@@@@@",
 "XXXXXXXXXXXXXXXXXXXXXXXXXX",
 "..........................",
-"oooooooooooooOoooooooooooo",
-"OO@@O@@O@O@@O@@OOOOOOO@O@@",
+"oooooooooooooooooooooooooo",
+"O@@O@@O@O@@O@@O@@@@O@@O@O@",
 "OOOOOOOOOOOOOOOOOOOOOOOOOO",
 "OOOOOOOOOOOOOOOOOOOOOOOOOO",
 "OOOOOOOOOOOOOOOOOOOOOOOOOO",
@@ -68,8 +68,8 @@ static char *menuButtonI[] = {
 "OOOOOOOOOOOOOOOOOOOOOOOOOO",
 "OOOOOOOOOOOOOOOOOOOOOOOOOO",
 "OOOOOOOOOOOOOOOOOOOOOOOOOO",
-"OOOOOOOOOOOOOOOOOOOOOOOOOO",
-"@@@@@@OO@@@@@OOO@@@@@@OO@@",
+"OOOOOOOOOOOOOOO@OOOOOOO@OO",
+"@@@@@@@@@@@@@@@@@@@@@@@@@@",
 "XXXXXXXXXXXXXXXXXXXXXXXXXX",
-" .       .       .       ."
+"                          "
 };

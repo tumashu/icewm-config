@@ -1,8 +1,8 @@
 /* XPM */
-static char * menuButtonI_xpm[] = {
+static char * menuButtonO_xpm[] = {
 "20 48 2 1",
-" 	c #E5E5E5",
-".	c #B2B2B2",
+" 	c #F2F2F2",
+".	c #BFBFBF",
 "                    ",
 "                    ",
 "                    ",

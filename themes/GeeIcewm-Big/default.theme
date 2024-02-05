@@ -13,7 +13,7 @@ TaskbuttonIconOffset=2
 TrayIconMaxWidth=36
 TrayIconMaxHeight=36
 
-TitleBarHeight=34
+TitleBarHeight=32
 TitleBarJustify=50
 TitleBarHorzOffset=-30
 ShowMenuButtonIcon=0                        # 0/1 Show application icon on menuButton
